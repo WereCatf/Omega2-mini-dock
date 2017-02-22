@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name omega2)(type KiCad)(uri "$(KIPRJMOD)\\omega2.pretty")(options "")(descr ""))
+)

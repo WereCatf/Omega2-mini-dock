@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"Omega2";1;"Omega2";;;
+2;"C1,C2";"C_0805_HandSoldering";2;"47pF";;;
+3;"D1,D2";"SOT-23";2;"BAT54S";;;
+4;"P1";"USB_Micro-B";1;"USB_OTG";;;
+5;"P2";"USB_A";1;"USB_A";;;
+6;"P3,P5";"Pin_Header_Straight_1x16_Pitch2.54mm";2;"CONN_01X16";;;
+7;"R1,R2";"R_0805_HandSoldering";2;"15k";;;
+8;"U1";"SOT-223";1;"LM1117-3.3";;;
+9;"C3,C4,C5";"CP_Tantalum_Case-A_EIA-3216-18_Hand";3;"100uF";;;
+10;"POWER";"Pin_Header_Straight_2x04_Pitch2.54mm";1;"CONN_02X04";;;
